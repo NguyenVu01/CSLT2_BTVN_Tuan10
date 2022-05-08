@@ -1,0 +1,11 @@
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\bin\Debug\CSLT2_Chuong4_BanSachQuaMang.exe.config
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\bin\Debug\CSLT2_Chuong4_BanSachQuaMang.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\bin\Debug\CSLT2_Chuong4_BanSachQuaMang.pdb
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.csproj.AssemblyReference.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.Form1.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.Properties.Resources.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.csproj.GenerateResource.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_BanSachQuaMang\obj\Debug\CSLT2_Chuong4_BanSachQuaMang.pdb

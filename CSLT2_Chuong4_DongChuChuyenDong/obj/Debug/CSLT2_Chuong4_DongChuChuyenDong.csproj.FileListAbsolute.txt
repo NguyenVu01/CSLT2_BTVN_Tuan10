@@ -1,0 +1,10 @@
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\bin\Debug\CSLT2_Chuong4_DongChuChuyenDong.exe.config
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\bin\Debug\CSLT2_Chuong4_DongChuChuyenDong.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\bin\Debug\CSLT2_Chuong4_DongChuChuyenDong.pdb
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.frmMove.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.Properties.Resources.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.csproj.GenerateResource.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_DongChuChuyenDong\obj\Debug\CSLT2_Chuong4_DongChuChuyenDong.pdb

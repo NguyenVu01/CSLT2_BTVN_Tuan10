@@ -1,0 +1,11 @@
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\bin\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.exe.config
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\bin\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\bin\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.pdb
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.csproj.AssemblyReference.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.frmMoon.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.Properties.Resources.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.csproj.GenerateResource.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_SuChuyenDongCuaMatTrang\obj\Debug\CSLT2_Chuong4_SuChuyenDongCuaMatTrang.pdb

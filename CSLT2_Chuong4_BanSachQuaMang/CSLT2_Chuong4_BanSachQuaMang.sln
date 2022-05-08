@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLT2_Chuong4_BanSachQuaMang", "CSLT2_Chuong4_BanSachQuaMang.csproj", "{984317E6-DBC2-4F01-A03A-536CF5173047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984317E6-DBC2-4F01-A03A-536CF5173047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984317E6-DBC2-4F01-A03A-536CF5173047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984317E6-DBC2-4F01-A03A-536CF5173047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984317E6-DBC2-4F01-A03A-536CF5173047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC4501F-79E7-44DF-A49A-B3AF0C2499D8}
+	EndGlobalSection
+EndGlobal

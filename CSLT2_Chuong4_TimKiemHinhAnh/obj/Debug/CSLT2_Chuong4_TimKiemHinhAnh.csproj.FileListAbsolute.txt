@@ -1,0 +1,10 @@
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\bin\Debug\CSLT2_Chuong4_TimKiemHinhAnh.exe.config
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\bin\Debug\CSLT2_Chuong4_TimKiemHinhAnh.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\bin\Debug\CSLT2_Chuong4_TimKiemHinhAnh.pdb
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.frmPicture.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.Properties.Resources.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.csproj.GenerateResource.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_TimKiemHinhAnh\obj\Debug\CSLT2_Chuong4_TimKiemHinhAnh.pdb

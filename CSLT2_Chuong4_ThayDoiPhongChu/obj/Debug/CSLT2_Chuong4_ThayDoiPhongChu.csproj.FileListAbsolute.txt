@@ -1,0 +1,11 @@
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.csproj.AssemblyReference.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.Form1.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.Properties.Resources.resources
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.csproj.GenerateResource.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\bin\Debug\CSLT2_Chuong4_ThayDoiPhongChu.exe.config
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\bin\Debug\CSLT2_Chuong4_ThayDoiPhongChu.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\bin\Debug\CSLT2_Chuong4_ThayDoiPhongChu.pdb
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.exe
+D:\anh trai\Code C#\CSLT2_Chuong4_ThayDoiPhongChu\obj\Debug\CSLT2_Chuong4_ThayDoiPhongChu.pdb
