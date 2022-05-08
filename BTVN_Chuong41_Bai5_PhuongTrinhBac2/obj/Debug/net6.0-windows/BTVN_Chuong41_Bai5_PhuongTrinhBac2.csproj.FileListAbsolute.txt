@@ -1,0 +1,17 @@
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\bin\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.exe
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\bin\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.deps.json
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\bin\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.runtimeconfig.json
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\bin\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.dll
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\bin\Debug\net6.0-windows\ref\BTVN_Chuong41_Bai5_PhuongTrinhBac2.dll
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\bin\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.pdb
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.csproj.AssemblyReference.cache
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.Form1.resources
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.csproj.GenerateResource.cache
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.AssemblyInfoInputs.cache
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.AssemblyInfo.cs
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.dll
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\ref\BTVN_Chuong41_Bai5_PhuongTrinhBac2.dll
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.pdb
+D:\anh trai\Code C#\BTVN_Chuong41_Bai5_PhuongTrinhBac2\obj\Debug\net6.0-windows\BTVN_Chuong41_Bai5_PhuongTrinhBac2.genruntimeconfig.cache
